@@ -1,5 +1,6 @@
 # OSX
 #
+__snapshots__
 .DS_Store
 .babelrc
 # Xcode
@@ -62,4 +63,4 @@ index.ios.js
 .watchmanconfig
 .gitattributes
 *.keystore
-yarn.lock
+yarn*
